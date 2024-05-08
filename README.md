@@ -45,9 +45,4 @@ Place this code and the "amazon_product.csv" file in the same directory.
 Run the script using python your_script_name.py.
 The Streamlit app will open in your web browser (usually at http://localhost:8501).
 Enter a product name in the search bar and click "Search" to see recommendations.
-Future Improvements
 
-Incorporate user purchase history or browsing behavior for more personalized recommendations.
-Add image display functionality for the recommended products.
-Integrate a filtering system based on product category or other attributes.
-Implement a more sophisticated ranking algorithm for recommendations.
